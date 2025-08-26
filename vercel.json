@@ -1,14 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/",
-      "destination": "https://urban-mover-magic.lovable.app",
-      "permanent": true
-    },
-    {
-      "source": "/um",
-      "destination": "https://urban-mover-magic.lovable.app",
-      "permanent": true
+      "source": "/(.*)",
+      "destination": "https://urban-mover-magic.lovable.app/$1"
     }
   ]
 }
