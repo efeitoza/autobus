@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/um",
+      "destination": "https://urban-mover-magic.lovable.app",
+      "permanent": true
+    }
+  ]
+}
